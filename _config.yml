@@ -18,7 +18,7 @@ title_separator          : "-"
 subtitle                 : "IT & Security Solutions"
 logo                     : "/assets/images/mch_43_124.png"
 email:
-url                      : https://mvisualc.github.io/newmch/
+url                      : "https://mvisualc.github.io/"
 baseurl                  : "/newmch"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
