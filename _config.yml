@@ -13,7 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "MCH Corporation"
+title                    : "MCH Corporation"
+title_separator          : "-"
+subtitle                 : "IT & Security Solutions"
 logo: "/assets/images/mch_43_124.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
