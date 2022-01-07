@@ -19,7 +19,7 @@ subtitle                 : "IT & Security Solutions"
 logo                     : "/assets/images/mch_43_124.png"
 email:
 url                      : https://mvisualc.github.io/newmch/
-baseurl                  : ""
+
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
