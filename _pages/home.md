@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 permalink: /
 carousels:
   - images: 
