@@ -2,6 +2,29 @@
 layout: nosplash
 permalink: /about/
 title: "About"
+
+feature_row:
+  - image_path: /assets/images/mm-cyber-feature.jpg
+    alt: "Cyber Security Centric"
+    title: "Cyber Security Centric"
+    excerpt: "Every solution MCH implements incorporates cyber security safeguards, protections, and best practices."
+    url: "/cyber-centric/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-prime-feature.jpg
+    alt: "Experienced Prime"
+    title: "Experienced Prime"
+    excerpt: "MCH has been competitively awarded numerous federal contracts it performed with exceptional results & CPARS."
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-integrity-feature.jpg
+    alt: "Credibility & Integrity"
+    title: "Credibility & Integrity"
+    excerpt: "MCH demonstrates responsiblity, integrity, and good character in its contract management activities."
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
 MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise to develop information technology solutions to operate activities of vital importance to companies and government agencies. We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance and integrity.
