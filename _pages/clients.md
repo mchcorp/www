@@ -41,7 +41,7 @@ layouts_gallery:
     image_path: /assets/images/80p_GSALogo210.png
     alt: "US General Services Administration"
 last_modified_at: 2021-11-28T10:23:16-04:00
-toc: true
+toc: true 
 ---
 
 We are proud to have served the following companies and agencies as well as many others:
