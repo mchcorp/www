@@ -26,6 +26,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+{% include feature_row %}
 
 MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise to develop information technology solutions to operate activities of vital importance to companies and government agencies. We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance and integrity.
 
@@ -37,10 +38,6 @@ MCH is an information technology and security solutions company that uses its ex
 - MCH performs contacts involving personnel with government security clearances as well as commercial advisory services requiring COI clearances.
 - MCH has established relationships with numerous large companies that it utilizes as subcontractors when appropriate.
 
----
-
 MCH Corporation is 100% Native American and Veteran Owned.
 
----
 
-{% include feature_row %}
