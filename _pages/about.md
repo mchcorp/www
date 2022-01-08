@@ -31,7 +31,7 @@ MCH is an information technology and security solutions company that uses its ex
 
 ## Notable Accomplishments
 
-- MCH is a debt free corporation that constructed & owns its own facilities, and uses its own working capital.
+- MCH is a debt free corporation that has constructed & owns its own facilities, and uses its own working capital.
 - MCH graduated the SBA 8(a) program in 2017 while successfully performing numerous federal contracts as a prime contractor.
 - MCH was designated by the SBA as the Tennessee 8(a) Contractor of the Year and its President has been designated by the SBA as Tennessee Small Business Person of the Year.
 - MCH performs contacts involving personnel with government security clearances as well as commercial advisory services requiring COI clearances.
