@@ -4,7 +4,7 @@ permalink: /vehicles/
 
 carousels:
   - images: 
-    - image: /newmch/assets/images/FAA-EFAST-Banner3.png    
+    - image: /newmch/assets/images/FAA-EFAST-Banner2.png    
 
 title: "Contract Vehicles of MCH Corporation"
 excerpt: "*Contract vehicles that services of MCH Corporation are available through."
