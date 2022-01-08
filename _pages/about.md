@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: nosplash
 permalink: /about/
 title: "About"
 ---
