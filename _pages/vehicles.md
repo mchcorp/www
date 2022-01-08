@@ -1,6 +1,11 @@
 ---
 layout: splash150h
 permalink: /vehicles/
+
+carousels:
+  - images: 
+    - image: /newmch/assets/images/FAA-EFAST-Banner.png    
+
 title: "Contract Vehicles of MCH Corporation"
 excerpt: "*Contract vehicles that services of MCH Corporation are available through."
 last_modified_at: 2021-11-28T10:23:16-04:00
