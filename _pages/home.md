@@ -18,7 +18,7 @@ feature_row:
     alt: "Cyber Security Centric"
     title: "Cyber Security Centric"
     excerpt: "Every solution MCH implements incorporates cyber security safeguards, protections, and best practices."
-    url: "/cyber-centric/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-prime-feature.jpg
