@@ -4,9 +4,9 @@ permalink: /vehicles/
 
 carousels:
   - images: 
-    - image: /newmch/assets/images/FAA-EFAST-Banner2.png
-    - image: /newmch/assets/images/GSA-STARSII-Banner.png  
-    - image: /newmch/assets/images/NASA-GLISTS-Banner.png 
+    - image: /assets/images/FAA-EFAST-Banner2.png
+    - image: /assets/images/GSA-STARSII-Banner.png  
+    - image: /assets/images/NASA-GLISTS-Banner.png 
 
 title: "Contract Vehicles of MCH Corporation"
 excerpt: "*Contract vehicles that services of MCH Corporation are available through."
