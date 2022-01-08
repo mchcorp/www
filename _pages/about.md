@@ -1,8 +1,18 @@
 ---
-layout: single
+layout: splash
 permalink: /about/
 title: "About"
----
+carousels:
+  - images: 
+    - image: /newmch/assets/images/mm-home-page-feature-slc.jpg    
+    - image: /newmch/assets/images/mm-home-page-feature-cyber.jpg
+    - image: /newmch/assets/images/mm-home-page-feature-info.jpg
+    - image: /newmch/assets/images/mm-home-page-feature-jsp.jpg
+    - image: /newmch/assets/images/mm-home-page-feature-gic2.jpg
+    - image: /newmch/assets/images/mm-home-page-feature-host.jpg
+    - image: /newmch/assets/images/mm-home-page-feature-ang.jpg
+    - image: /newmch/assets/images/mm-home-page-feature-web.jpg
+    - image: /newmch/assets/images/mm-home-page-feature-muni.jpg
 
 MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise to develop information technology solutions to operate activities of vital importance to companies and government agencies. We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance and integrity.
 
