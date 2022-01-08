@@ -3,15 +3,15 @@ layout: splash
 permalink: /
 carousels:
   - images: 
-    - image: /newmch/assets/images/mm-home-page-feature-slc.jpg    
-    - image: /newmch/assets/images/mm-home-page-feature-cyber.jpg
-    - image: /newmch/assets/images/mm-home-page-feature-info.jpg
-    - image: /newmch/assets/images/mm-home-page-feature-jsp.jpg
-    - image: /newmch/assets/images/mm-home-page-feature-gic2.jpg
-    - image: /newmch/assets/images/mm-home-page-feature-host.jpg
-    - image: /newmch/assets/images/mm-home-page-feature-ang.jpg
-    - image: /newmch/assets/images/mm-home-page-feature-web.jpg
-    - image: /newmch/assets/images/mm-home-page-feature-muni.jpg
+    - image: /assets/images/mm-home-page-feature-slc.jpg    
+    - image: /assets/images/mm-home-page-feature-cyber.jpg
+    - image: /assets/images/mm-home-page-feature-info.jpg
+    - image: /assets/images/mm-home-page-feature-jsp.jpg
+    - image: /assets/images/mm-home-page-feature-gic2.jpg
+    - image: /assets/images/mm-home-page-feature-host.jpg
+    - image: /assets/images/mm-home-page-feature-ang.jpg
+    - image: /assets/images/mm-home-page-feature-web.jpg
+    - image: /assets/images/mm-home-page-feature-muni.jpg
 
 feature_row:
   - image_path: /assets/images/mm-cyber-feature.jpg
