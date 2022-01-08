@@ -4,10 +4,10 @@ main:
   - title: "About"
     url: /about/
   - title: "Capabilities"
-    url: /Capabilities/    
+    url: /capabilities/    
   - title: "Clients"
-    url: /Clients/
+    url: /clients/
   - title: "Vehicles"
-    url: /Vehicles/
+    url: /vehicles/
   - title: "Contact Us"
-    url: /ContactUs/
+    url: /contactus/
