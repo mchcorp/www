@@ -1,5 +1,5 @@
 ---
-layout: nosplash
+layout: splash150h
 permalink: /vehicles/
 title: "Contract Vehicles of MCH Corporation"
 excerpt: "*Contract vehicles that services of MCH Corporation are available through."
