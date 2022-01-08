@@ -4,8 +4,8 @@ permalink: /clients/
 title: "Select Clients of MCH Corporation"
 excerpt: "*Logos of some of MCH Corporation's clients."
 layouts_gallery:
-  - url: /assets/images/80p_PwC_Logo210.gif
-    image_path: /assets/images/80p_PwC_Logo210.gif
+  - url: /assets/images/80p_PwC_Logo210.png
+    image_path: /assets/images/80p_PwC_Logo210.png
     alt: "Pricewaterhouse Coopers"
   - url: /assets/images/80p_CACI_Logo210.png
     image_path: /assets/images/80p_CACI_Logo210.png
