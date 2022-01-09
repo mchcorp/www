@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-![US Small Business Week Award Winner](/newmch/assets/images/sba_nsbw_award_winner.png){: width="150" }
+![US Small Business Week Award Winner](/assets/images/sba_nsbw_award_winner.png){: width="150" }
 
 ## About MCH Corporation (MCH), A Cyber Security Focussed Company
 
