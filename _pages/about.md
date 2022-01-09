@@ -27,9 +27,11 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-## About MCH Corporation (MCH)
+![US Small Business Week Award Winner](/newmch/assets/images/sba_nsbw_award_winner.png){: width="150" }
 
-MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise in the area of cyber security to develop information technology solutions to operate activities of vital importance to companies and government agencies. Our company has a vast array of cyber security technology and human resources that we apply to every IT project we are involved in. We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance, integrity, and cyber security.
+## About MCH Corporation (MCH), A Cyber Security Focussed Company
+
+MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise in the area of cyber security to develop information technology solutions to operate activities of vital importance to companies and government agencies. Our company has a vast array of cyber security technology and human resources that we apply to every IT project we are involved in.  We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance, integrity, and cyber security.
 
 ## Notable Accomplishments
 
