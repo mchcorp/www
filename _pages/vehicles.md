@@ -14,7 +14,7 @@ last_modified_at: 2021-11-28T10:23:16-04:00
 toc: true
 ---
 
-MCH Corporation has a number of contract vehicles under which if can perform new awards and task orders under.
+MCH Corporation has a number of contract vehicles under which it can perform new awards and task orders.
 
 ## Current Active Contract Vehicles under which we can receive additional awards:
 
