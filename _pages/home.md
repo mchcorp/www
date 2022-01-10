@@ -39,5 +39,4 @@ feature_row:
 
 {% include feature_row %}
 
----
 ![US Small Business Week Award Winner](/assets/images/sba_nsbw_award_winner.png){: width="150" }
