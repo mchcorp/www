@@ -13,7 +13,7 @@ Our team brings together many years of expertise in the development of solutions
 
 - **Web Application Security Assessments (WASA)** — MCH's most prominent capability is the expert ability to perform web application penetration testing and vulnerability assessments of web applications, REST APIs, and web services.
 - **Secure Source Code Reviews and Static Analysis of Application Source Code (SAST)** — MCH has the expertise to perform manual code reviews and to perform static analysis of source code using industry standard tools (Fortify, Fortify on Demand, SonarQube, SonarCloud, Veracode, or Checkmarx).
-- **Custom Web Application and Website Development** — One of MCH's areas of expertise is developing web-based software applications and websites, including tools and extensions to facilitate testing, reporting, and automation.
+- **Custom Web Application and Website Development** — One of MCH's areas of expertise is developing web-based software applications and websites, including tools and extensions to facilitate monitoring, alert notification, testing, reporting, and automation.
 - **Content Review, Curation, and Organization** — MCH has experience reviewing content for completeness, appropriateness and accuracy, as well as collection management to include indexing, and metadata building.
 - **Information Center and Technical Library Operation** — MCH has experience operating both public information centers and technical libraries that support research and development programs for government agencies.
 - **Systems Analysis and Design** — MCH Corporation's staff has a great deal of experience analyzing requirements and designing scalable, secure, and high-performance software applications.
