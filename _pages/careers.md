@@ -9,12 +9,12 @@ toc: true
 
 MCH Corporation in an equal opportunity employer.  These are positions that MCH Corporation is recruiting candidates for:
 
-# Position: Project Manager
+## Position: Project Manager
 
-## Summary:
+### Summary:
 MCH is hiring an experienced Project Manager to support an IT contract at a Federal Agency. The PM will be responsible for managing a midsized contract team including remote and onsite employees. The Project Manager may work remotely but could be asked to visit sites within the US throughout the contract. This position is full time, benefited with an expected start date of August 2022. 
 
-## Responsibilities:
+### Responsibilities:
 - Supervising and coordinating all technical staff
 - Supporting and managing IT Projects in coordination with the Federal Managers, projects include but are not limited to:
     - Developing and maintaining websites
@@ -29,7 +29,7 @@ MCH is hiring an experienced Project Manager to support an IT contract at a Fede
 - Troubleshoot hardware and software issues related to internal IT as needed
 - Report metrics weekly, monthly and as needed
 
-## Qualifications:
+### Qualifications:
 - Bachelor’s Degree in Information Technology, Computer Science, or related area
 - A current Project Management Professional (PMP) certification.
 - A minimum of 3 years’ experience managing IT, web development and/or web communications projects  
@@ -37,12 +37,12 @@ MCH is hiring an experienced Project Manager to support an IT contract at a Fede
 - Demonstrated experienced with Microsoft Project Server
 - Able to pass a background check and show proof of vaccination against COVID 19
 
-# Position: Application Developer (Multiple)
+## Position: Application Developer (Multiple)
 
-## Summary:
+### Summary:
 MCH is hiring multiple Application Developer(s) for an IT contract supporting a prestigious federal agency. The Developers will be responsible for maintaining and improving web applications, troubleshooting, providing technical documentation, and coding to industry standards. These are full time, remote, benefited positions with work expected to start in August 2022.
 
-## Responsibilities:
+### Responsibilities:
 - Analyze and troubleshoot services for complex problems, recommending improvements, staying up-to-date on security vulnerabilities, new features, hardware, software, and feasibility determination
 - Develop documentation, including Systems Requirements Specifications documents and Business Requirements Documents for web applications
 - Develop web based GUIs that comply with the agencies usability and programming standards
@@ -60,19 +60,19 @@ MCH is hiring multiple Application Developer(s) for an IT contract supporting a 
 - Develop presentation and training material for project team members
 - Adhere to all web federal laws and regulations 
 
-## Qualifications:
+### Qualifications:
 - Bachelor’s Degree in Information Technology, Computer Science, or related area
 - A minimum of 5 years’ experience working with Coldfusion, Javascript, JQuery, CSS, HTML, SQL, Content Management Systems, Bootstrap, and WCAG 2.0 AA conformance standards.  
 - Excellent communication and troubleshooting skills
 - Strong analytical and critical thinking skills
 - Able to pass a background check and show proof of vaccination against COVID 19
 
-# Position: SharePoint Administrator (Multiple)
+## Position: SharePoint Administrator (Multiple)
 
-## Summary:
+### Summary:
 MCH is hiring multiple SharePoint Administrators for an IT contract supporting a prestigious federal agency. The Administrators must be certified as a Microsoft Certified Solutions Expert (MCSE) in SharePoint and Microsoft Certified Solutions Developer (MCSD). Ideal candidates will have experience with clustering, disaster recovery, virtualization, and other components in a SharePoint environment. These are full time, remote, benefited positions with work expected to start in August 2022.
 
-## Responsibilities:
+### Responsibilities:
 - Create SharePoint sites for employees within 3-5 business days of receiving the request
 - Provide technical support for the entire SharePoint environment
 - Migrate SharePoint sites for various versions for SharePoint
@@ -86,7 +86,7 @@ MCH is hiring multiple SharePoint Administrators for an IT contract supporting a
 - Research, develop, and implement features and functionalities that are unavailable at this time
 - Act as the primary support role for end users
 
-## Qualifications:
+### Qualifications:
 - Bachelor’s Degree in relevant field 
 - Shall possess in-depth knowledge of migrating SharePoint environments, and experience with technologies Microsoft Server, IIS, SQL, PowerShell, HTML, CSS, Javascript, C#
 - Must be certified as a Microsoft Certified Solutions Expert (MCSE) in SharePoint, and Microsoft Certified Solutions Developer (MCSD)
@@ -96,12 +96,12 @@ MCH is hiring multiple SharePoint Administrators for an IT contract supporting a
 - Strong analytical and critical thinking skills
 - Able to pass a background check and show proof of vaccination against COVID 19
 
-# Position: Front End Web Developer 
+## Position: Front End Web Developer 
 
-## Summary:
+### Summary:
 MCH is hiring multiple Front End Web Developer for an IT contract supporting a prestigious federal agency. The Developers will support the agency by maintaining agency websites and providing analysis on current design trends and solutions to overall design management. These are full time, remote, benefited positions with work expected to start in August 2022.
 
-## Responsibilities:
+### Responsibilities:
 - Manipulate graphics and images and optimize for website use
 - Design websites using ColdFusion, HTML, JavaScript, jQuery, Bootstrap and CSS
 - Develop templates for mobile, desktop and responsive design
@@ -117,7 +117,7 @@ MCH is hiring multiple Front End Web Developer for an IT contract supporting a p
 - Conduct an analysis of the current web environment to determine if there are new technologies and innovative features to enhance and optimize the web environment 
 
 
-## Qualifications:
+### Qualifications:
 - Bachelor’s Degree in Information Technology, Computer Science, or related area
 - Minimum of 3 years’ experience supporting a large website using technologies such as Coldfusion, HTML, Bootstrap, CSS, Javascript, JQuery, Content Management Systems, and WCAG 2.0 AA conformance standards.  
 - Excellent communication and troubleshooting skills
