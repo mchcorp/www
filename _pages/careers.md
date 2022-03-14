@@ -11,7 +11,7 @@ MCH Corporation in an equal opportunity employer.  These are positions that MCH 
 
 # Position: Project Manager
 
-## Position summary:
+## Summary:
 MCH is hiring an experienced Project Manager to support an IT contract at a Federal Agency. The PM will be responsible for managing a midsized contract team including remote and onsite employees. The Project Manager may work remotely but could be asked to visit sites within the US throughout the contract. This position is full time, benefited with an expected start date of August 2022. 
 
 ## Responsibilities:
@@ -39,7 +39,7 @@ MCH is hiring an experienced Project Manager to support an IT contract at a Fede
 
 # Position: Application Developer (Multiple)
 
-## Position summary:
+## Summary:
 MCH is hiring multiple Application Developer(s) for an IT contract supporting a prestigious federal agency. The Developers will be responsible for maintaining and improving web applications, troubleshooting, providing technical documentation, and coding to industry standards. These are full time, remote, benefited positions with work expected to start in August 2022.
 
 ## Responsibilities:
@@ -69,7 +69,7 @@ MCH is hiring multiple Application Developer(s) for an IT contract supporting a 
 
 # Position: SharePoint Administrator (Multiple)
 
-## Position summary:
+## Summary:
 MCH is hiring multiple SharePoint Administrators for an IT contract supporting a prestigious federal agency. The Administrators must be certified as a Microsoft Certified Solutions Expert (MCSE) in SharePoint and Microsoft Certified Solutions Developer (MCSD). Ideal candidates will have experience with clustering, disaster recovery, virtualization, and other components in a SharePoint environment. These are full time, remote, benefited positions with work expected to start in August 2022.
 
 ## Responsibilities:
@@ -98,7 +98,7 @@ MCH is hiring multiple SharePoint Administrators for an IT contract supporting a
 
 # Position: Front End Web Developer 
 
-## Position summary:
+## Summary:
 MCH is hiring multiple Front End Web Developer for an IT contract supporting a prestigious federal agency. The Developers will support the agency by maintaining agency websites and providing analysis on current design trends and solutions to overall design management. These are full time, remote, benefited positions with work expected to start in August 2022.
 
 ## Responsibilities:
