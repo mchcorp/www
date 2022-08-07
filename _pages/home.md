@@ -12,7 +12,8 @@ carousels:
     - image: /assets/images/mm-home-page-feature-ang.jpg
     - image: /assets/images/mm-home-page-feature-web.jpg
     - image: /assets/images/mm-home-page-feature-muni.jpg
-
+intro: 
+  - excerpt: 'MCH Corporation and ALLPINE Solutions are active participants in the SBA Mentor-Protégé Program.  MCH is a Mentor to APS and you can learn more about our Mentor-Protégé relationship at: http://allmch.com'
 feature_row:
   - image_path: /assets/images/mm-cyber-feature.jpg
     alt: "Cyber Security Centric"
@@ -36,6 +37,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
