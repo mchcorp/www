@@ -9,33 +9,32 @@ toc: true
 
 MCH Corporation in an equal opportunity employer.  These are positions that MCH Corporation is recruiting candidates for:
 
-## Position: Project Manager
+## JOB TITLE: Librarian - Kirtland AFB
 
-### Summary:
-MCH is hiring an experienced Project Manager to support an IT contract at a Federal Agency. The PM will be responsible for managing a midsized contract team including remote and onsite employees. The Project Manager may work remotely but could be asked to visit sites within the US throughout the contract. This position is full time, benefited with an expected start date of August 2022. 
+### LOCATION:
+Air Force Research Laboratory (AFRL} Phillips Research Site (PRS} Technical Library located on Kirtland AFB in Albuquerque, New Mexico. 
 
-### Responsibilities:
-- Supervising and coordinating all technical staff
-- Supporting and managing IT Projects in coordination with the Federal Managers, projects include but are not limited to:
-    - Developing and maintaining websites
-    - Developing and maintaining web applications
-    - Content review and documentation 
-    - Developing and maintaining a SharePoint environment 
-    - Managing and maintaining an agency web environment 
-    - Report metrics weekly, monthly and as needed
-- Abiding by all Enterprise Performance Lifecycle and Capital Planning and Investment Control policies and guidelines
-- Manage the success of a midsize contract team by coordinating between contracts and federal staff
-- Research and suggest new hardware and software in support of agency goals
-- Troubleshoot hardware and software issues related to internal IT as needed
-- Report metrics weekly, monthly and as needed
+### JOB SUMMARY:
+The Librarian position includes the full range of librarian duties and requires the ability to work independently while maintaining effective working relationships with all levels of staff and library customers. The Librarian must be able to think analytically and have effective verbal and written communication skills. The Librarian must have demonstrated experience of strong customer service. 
 
-### Qualifications:
-- Bachelor’s Degree in Information Technology, Computer Science, or related area
-- A current Project Management Professional (PMP) certification.
-- A minimum of 3 years’ experience managing IT, web development and/or web communications projects  
-- A minimum of 3 years’ experience with Enterprise Performance Lifecycle and Capital Planning and Investment Control policies and guidelines 
-- Demonstrated experienced with Microsoft Project Server
-- Able to pass a background check and show proof of vaccination against COVID 19
+### ESSENTIAL DUTIES AND RESPONSIBILITIES:
+- Provides reference services at the level of mediation requested by the customer to include referral to other base and DoD programs, and active participation in consortia, networks, resource sharing and cooperative activities. Will use available regional or national DoD sponsored bibliographic databases.
+- Conducts database literature searches using appropriate commercial databases and open literature sources, documenting the search results for the requesting customer.
+- Assists in collection development & maintenance activities, including inventory
+- Provides scheduled daily coverage of the point of service desk with the ability to conduct basic circulation duties.
+- Maintains and manages the integrated library system (ILS).
+- Instructs customers in the use of library resources.
+- Participates in marketing and outreach activities.
+- Assists with Document delivery service (DDS} and Interlibrary Loan services when needed.
+- Utilizes knowledge of digitization methodology and electronic resources management best practices.
+- Assists in maintaining library web presence, to include Sharepoint.
+- Maintains relationships with electronic resources vendors.
+
+### QUALIFICATIONS:
+- Master's Degree in Library and Information Science from an ALA accredited program.
+- Minimum of one year experience in scientific or technical libraries.
+- Working knowledge of computers, Microsoft Windows, and Microsoft Office software.  
+- Ability to obtain a DoD Secret Security Clearance
 
 [MCH Corporation Employment Application](/assets/documents/MCH Corporation Employment Application.pdf)
 
