@@ -3,15 +3,7 @@ layout: splash
 permalink: /
 carousels:
   - images: 
-    - image: /assets/images/mm-home-page-feature-slc.jpg    
-    - image: /assets/images/mm-home-page-feature-cyber.jpg
-    - image: /assets/images/mm-home-page-feature-info.jpg
-    - image: /assets/images/mm-home-page-feature-jsp.jpg
-    - image: /assets/images/mm-home-page-feature-gic2.jpg
-    - image: /assets/images/mm-home-page-feature-host.jpg
-    - image: /assets/images/mm-home-page-feature-ang.jpg
-    - image: /assets/images/mm-home-page-feature-web.jpg
-    - image: /assets/images/mm-home-page-feature-muni.jpg
+    - image: /assets/images/h_main_wasa.jpg
 intro: 
   - excerpt: 'MCH Corporation and ALLPINE Solutions are active participants in the SBA Mentor-Protégé Program.  MCH is a Mentor to APS and you can learn more about our Mentor-Protégé relationship at: http://allmch.com'
 feature_row:
