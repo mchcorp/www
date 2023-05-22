@@ -5,7 +5,8 @@ carousels:
   - images: 
     - image: /assets/images/h_main_wasa.jpg
 intro: 
-  - excerpt: 'MCH Corporation and ALLPINE Solutions are active participants in the SBA Mentor-Protégé Program.  MCH is a Mentor to APS and you can learn more about our Mentor-Protégé relationship at: http://allmch.com'
+  - excerpt: 'MCH performs security assessments of applications for companies both directly and as a subcontractor for leading cyber security advisories, as well as for governemnt agencies.  
+Our security testing team has more than 35 years of combined development and application security experience.  Our staff has access to a broad variety of testing and analysis testing tools to perform static (SAST) and dynamic (DAST) security testing, Software Composition Analysis (SCA), Manual Application Penetration Testing, Threat Modeling and Secure Code Reviews.'
 feature_row:
   - image_path: /assets/images/mm-cyber-feature.jpg
     alt: "Cyber Security Centric"
