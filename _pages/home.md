@@ -1,14 +1,16 @@
 ---
-layout: splash
+layout: nosplash
 permalink: /
-  
-carousels:
-  - images: 
-    - image: /assets/images/h_main_wasa.jpg
-    url: /wasa
+
+sections:
+  - format: image
+    #style: #optional style for your image section
+    alt: Web Application Security Assessments (WASA).
+    size: 8 # optional - column size (centered) e.g a size of 8 will add your image to a col-sm-8 div with an offset of 2 to ensure it's centered.
+    path: /assets/images/h_main_wasa.jpg #requried - the full path to your image.
 
 intro: 
-  - excerpt: 'MCH conducts security evaluations for applications on behalf of organizations. We provide this service both directly and indirectly, as well as a subcontractor for prominent cybersecurity advisory firms and government agencies.'
+  - excerpt: 'MCH conducts security assessments for applications on behalf of organizations. We provide this service both directly and indirectly, as well as a subcontractor for prominent cybersecurity advisory firms and government agencies.'
 
 sections:
   - format: text
