@@ -2,19 +2,18 @@
 layout: nosplash
 permalink: /
 
-feature_row:
-  - image_path: /assets/images/h_main_wasa.jpg
-    alt: " Web Application Security Assessments (WASA)"
-    title: " Web Application Security Assessments (WASA)"
-    excerpt: "MCH conducts security assessments for applications on behalf of organizations. We provide this service both directly and indirectly, as well as a subcontractor for prominent cybersecurity advisory firms and government agencies."
-    url: "/wasa/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"    
----
-
 intro: 
   - excerpt: 'MCH conducts security assessments for applications on behalf of organizations. We provide this service both directly and indirectly, as well as a subcontractor for prominent cybersecurity advisory firms and government agencies.'
 
+feature_row:
+  - image_path: /assets/images/h_main_wasa.jpg
+    alt: "Web Application Security Assessments (WASA)"
+    title: "Web Application Security Assessments (WASA)"
+    excerpt: "MCH conducts security assessments for applications on behalf of organizations. We provide this service both directly and indirectly, as well as a subcontractor for prominent cybersecurity advisory firms and government agencies."
+    url: "/wasa/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+    
 feature_row:
   - image_path: /assets/images/mm-cyber-feature.jpg
     alt: "Cyber Security Centric"
