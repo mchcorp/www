@@ -7,7 +7,7 @@ last_modified_at: 2021-11-28T10:23:16-04:00
 toc: true
 ---
 
-Our team brings together many years of expertise in the development of solutions for our customers that give them a competitive advantage. MCH Corporation has a vast pool of knowledge and experience to draw on in architecting the most cost-effective and efficient solutions to meet your requirements. This type of cross-disciplinary expertise distinguishes us from all other companies, allowing us to be one-stop providers of information technology-based solutions to our customers.
+Our team brings together countless decades of application security assessment, secure software development, and network & database security assessment experience.  Our firm has exceptional past performance in those service  areas, as well as providing other technology and information management services.  Our staff has a vast pool of knowledge and experience to draw on in architecting the most secure information technology solutions to meet our customers’ requirements. This type of cross-disciplinary expertise distinguishes us as a one-stop provider of secure information technology-based solutions.
 
 ## Our capabilities include:
 
