@@ -4,7 +4,6 @@ permalink: /
 carousels:
   - images: 
     - image: /assets/images/h_main_wasa.jpg 
-      url: wasa
 
 intro: 
   - excerpt: 'MCH conducts security evaluations for applications on behalf of organizations. We provide this service both directly and indirectly, as well as a subcontractor for prominent cybersecurity advisory firms and government agencies.'
