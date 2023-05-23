@@ -5,7 +5,7 @@ carousels:
   - images: 
     - image: /assets/images/h_main_wasa.jpg
 intro: 
-  - excerpt: 'MCH performs security assessments of applications for organzations both directly and as a subcontractor for leading cyber security advisories.'
+  - excerpt: 'MCH conducts security evaluations for applications on behalf of organizations. We provide this service both directly and indirectly, as well as a subcontractor for prominent cybersecurity advisory firms and government agencies.'
 feature_row:
   - image_path: /assets/images/mm-cyber-feature.jpg
     alt: "Cyber Security Centric"
