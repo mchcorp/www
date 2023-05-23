@@ -11,8 +11,6 @@ MCH proudly boasts a continually expanding team of professional application secu
 
 ## Our WASA capabilities include:
 
-- **Web Application Security Assessments (WASA)** — MCH's most prominent capability is the expert ability to perform web application penetration testing and vulnerability assessments of web applications, REST APIs, and web services.
-- **Secure Source Code Reviews and Static Analysis of Application Source Code (SAST)** — MCH has the expertise to perform manual secure code reviews and to perform static analysis of source code using industry standard tools (Fortify, Fortify on Demand, SonarQube, SonarCloud, Veracode, or Checkmarx).
-- **REST API Security Testing** — MCH's team possesses the requisite comprehensive experience in executing REST API tests proficiently, even in the face of scarce mature dynamic REST API testing tools. Our dedicated staff has successfully conducted hundreds of REST API tests for esteemed companies such as Verizon, PwC, Accenture, and Deloitte.
-
-
+- **Web Application Security Assessments (WASA)** â€” MCH's most prominent capability is the expert ability to perform web application penetration testing and vulnerability assessments of web applications, REST APIs, and web services.
+- **Secure Source Code Reviews and Static Analysis of Application Source Code (SAST)** â€” MCH has the expertise to perform manual secure code reviews and to perform static analysis of source code using industry standard tools (Fortify, Fortify on Demand, SonarQube, SonarCloud, Veracode, or Checkmarx).
+- **REST API Security Testing** â€” MCH's team possesses the requisite comprehensive experience in executing REST API tests proficiently, even in the face of scarce mature dynamic REST API testing tools. Our dedicated staff has successfully conducted hundreds of REST API tests for esteemed companies such as Verizon, PwC, Accenture, and Deloitte.
