@@ -9,36 +9,6 @@ toc: true
 
 MCH Corporation in an equal opportunity employer.  These are positions that MCH Corporation is recruiting candidates for:
 
-## Position: Penetration Tester (Remote Possible)
-
-### Summary:
-MCH is hiring multiple Penetration Testers to support several prestigious clients and federal agencies. Minimum of 5 years of application development and 5 years of penetration testing experience with ability to independently complete an application penetration test in accordance with OWASP and industry best practices.
-
-### Thorough understanding of methodology and ability utilizing assessment and exploitation tools, including:
-- Kali Linux
-- Metasploit
-- Burp Suite Pro
-- NMAP
-
-### Experience
-- Proficiency in at least one scripting language (Perl, Python, Bash, PowerShell, VBA, etc)
-- Ability to work independently in a remote environment to advance projects and deliver above customer expectations
-- Self-motivated and innovative problem solver
-- Capability to manage multiple requirements at any one time
-- Ability to research, scope, develop, and implement new requirements and TTPs
-- Penetration testing certification (PenTest+, CEH, OSCP, GPEN, etc)
-- Experience and ability to conduct network penetration tests
-- Experience and ability to conduct PCI penetration tests
-- Experience with Red Team and/or Purple Team testing
-
-### Qualifications:
-- Bachelor’s Degree in Information Technology, Computer Science, or related area  
-- Excellent communication and troubleshooting skills
-- Strong analytical and critical thinking skills
-- Able to pass a background check and show proof of vaccination against COVID 19
-
-[MCH Corporation Employment Application](/assets/documents/MCH Corporation Employment Application.pdf)
-
 ## Position: Sr. Application Penetration Tester (Remote Possible)
 
 ### Summary:
@@ -60,6 +30,36 @@ MCH is hiring multiple Penetration Testers to support several prestigious client
 - Act as a technical leader and mentor for junior engineers.
 - Engage with technical and non-technical audiences to articulate both testing processes, techniques, and results; guide technical audiences on remediation options and assist clients in weighing those options.
 - Partner with the Cyber teams to develop new testing techniques, automation for testing and marketing collateral to support the practice and mentor junior and offshore team members on tools and techniques in performing tests.
+
+### Qualifications:
+- Bachelor’s Degree in Information Technology, Computer Science, or related area  
+- Excellent communication and troubleshooting skills
+- Strong analytical and critical thinking skills
+- Able to pass a background check and show proof of vaccination against COVID 19
+
+[MCH Corporation Employment Application](/assets/documents/MCH Corporation Employment Application.pdf)
+
+## Position: Penetration Tester (Remote Possible)
+
+### Summary:
+MCH is hiring multiple Penetration Testers to support several prestigious clients and federal agencies. Minimum of 5 years of application development and 5 years of penetration testing experience with ability to independently complete an application penetration test in accordance with OWASP and industry best practices.
+
+### Thorough understanding of methodology and ability utilizing assessment and exploitation tools, including:
+- Kali Linux
+- Metasploit
+- Burp Suite Pro
+- NMAP
+
+### Experience
+- Proficiency in at least one scripting language (Perl, Python, Bash, PowerShell, VBA, etc)
+- Ability to work independently in a remote environment to advance projects and deliver above customer expectations
+- Self-motivated and innovative problem solver
+- Capability to manage multiple requirements at any one time
+- Ability to research, scope, develop, and implement new requirements and TTPs
+- Penetration testing certification (PenTest+, CEH, OSCP, GPEN, etc)
+- Experience and ability to conduct network penetration tests
+- Experience and ability to conduct PCI penetration tests
+- Experience with Red Team and/or Purple Team testing
 
 ### Qualifications:
 - Bachelor’s Degree in Information Technology, Computer Science, or related area  
