@@ -1,5 +1,5 @@
 ---
-layout: nosplash
+layout: splash
 permalink: /
 
 carousels:
