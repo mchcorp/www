@@ -9,7 +9,11 @@ carousels:
 intro: 
   - excerpt: 'MCH conducts security evaluations for applications on behalf of organizations. We provide this service both directly and indirectly, as well as a subcontractor for prominent cybersecurity advisory firms and government agencies.'
 
-Our security testing team has more than 35 years of combined development and application security experience.  Our staff has access to a broad variety of testing and analysis testing tools to perform static (SAST) and dynamic (DAST) security testing, Software Composition Analysis (SCA), Manual Application Penetration Testing, Threat Modeling and Secure Code Reviews.
+sections:
+  - format: text
+    style: text-center # Optional css class to applied to section
+    text_content:
+      text: Our security testing team has more than 35 years of combined development and application security experience.  Our staff has access to a broad variety of testing and analysis testing tools to perform static (SAST) and dynamic (DAST) security testing, Software Composition Analysis (SCA), Manual Application Penetration Testing, Threat Modeling and Secure Code Reviews.
 
 feature_row:
   - image_path: /assets/images/mm-cyber-feature.jpg
