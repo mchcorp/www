@@ -1,22 +1,8 @@
 ---
-layout: splash
-permalink: /
+layout: nosplash
+permalink: /about/
+title: "About"
 
-carousels:
-  - images: 
-    - image: /assets/images/h_main_wasa.jpg
-      url: /wasa
-
-intro: 
-  - excerpt: 'MCH conducts security evaluations for applications on behalf of organizations. We provide this service both directly and indirectly, as well as a subcontractor for prominent cybersecurity advisory firms and government agencies.'
-
-sections:
-  - format: text
-    style: text-center # Optional css class to applied to section
-    text_content:
-      text: Our security testing team has more than 35 years of combined development and application security experience.  Our staff has access to a broad variety of testing and analysis testing tools to perform static (SAST) and dynamic (DAST) security testing, Software Composition Analysis (SCA), Manual Application Penetration Testing, Threat Modeling and Secure Code Reviews.
-
-    
 feature_row:
   - image_path: /assets/images/mm-cyber-feature.jpg
     alt: "Cyber Security Centric"
@@ -41,8 +27,23 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-{% include feature_row id="intro" type="center" %}
+![US Small Business Week Award Winner](/assets/images/main4.png){: width="*" }
 
+## About MCH Corporation (MCH), A Cyber Security Focused Company
+
+MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise in the area of cyber security to develop information technology solutions to operate activities of vital importance to companies and government agencies. Our company has a vast array of cyber security technology and human resources that we apply to every IT project we are involved in.  We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance, integrity, and cyber security.
+
+## Notable Accomplishments
+
+- MCH is a debt free corporation that has constructed & owns its own facilities, and uses its own working capital.
+- MCH graduated the SBA 8(a) program in 2017 while successfully performing numerous federal contracts as a prime contractor.
+- MCH was designated by the SBA as the Tennessee 8(a) Contractor of the Year and its President has been designated by the SBA as Tennessee Small Business Person of the Year.
+- MCH performs contacts involving personnel with government security clearances as well as commercial advisory services requiring COI clearances.
+- MCH has established relationships with numerous large companies that it utilizes as subcontractors when appropriate.
+
+MCH Corporation is 100% Native American and Veteran Owned.
+
+---
 {% include feature_row %}
 
-![US Small Business Week Award Winner](/assets/images/sba_nsbw_award_winner.png){: width="150" }
+
