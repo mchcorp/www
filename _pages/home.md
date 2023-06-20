@@ -29,7 +29,7 @@ feature_row:
 
 ![US Small Business Week Award Winner](/assets/images/main4.png){: width="*" }
 
-## About MCH Corporation (MCH), A Cyber Security Focused Company
+## MCH is a Application Security Focussed Company
 
 Our security testing team has more than 35 years of combined development and application security experience. Our staff has access to a broad variety of testing and analysis testing tools to perform static (SAST) and dynamic (DAST) security testing, Software Composition Analysis (SCA), Manual Application Penetration Testing, Threat Modeling and Secure Code Reviews.
 
