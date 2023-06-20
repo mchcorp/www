@@ -1,7 +1,7 @@
 ---
 layout: nosplash
 permalink: /wasa/
-title: "MCH Corporation WASA Capabilities"
+title: "Web Application Security Assessment (WASA)"
 excerpt: "MCH Corporation has extensive experience performing web application security assessment (WASA) services."
 last_modified_at: 2021-11-28T10:23:16-04:00
 toc: true
