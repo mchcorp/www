@@ -40,9 +40,9 @@ MCH is an information technology and security solutions company that uses its ex
 ## Primary Services
 
 - **[Web Application Security Assessments (WASA)]({% link _pages/wasa.md %})** — MCH's most prominent capability is the expert ability to perform web application penetration testing and vulnerability assessments of web applications.
-- **Secure Source Code Reviews and Static Analysis of Application Source Code (SAST)** — MCH has the expertise to perform manual code reviews and to perform static analysis of source code using industry standard tools (Fortify, Fortify on Demand, SonarQube, SonarCloud, Veracode, or Checkmarx).
-- **Software Composition Analysis (SCA)** — MCH has the tools and experts needed to analyze applications to assess risk associated with dependencies and third-party components used in applications.
-- **Dynamic Application Security Assessments (DAST)** — MCH has a number of licensed products available to perform DAST scanning of applications and our staff are experts at their use.
+- **[Secure Source Code Reviews and Static Analysis of Application Source Code (SAST)]({% link _pages/sast.md %})** — MCH has the expertise to perform manual code reviews and to perform static analysis of source code using industry standard tools (Fortify, Fortify on Demand, SonarQube, SonarCloud, Veracode, or Checkmarx).
+- **[Software Composition Analysis (SCA)]({% link _pages/sca.md %})** — MCH has the tools and experts needed to analyze applications to assess risk associated with dependencies and third-party components used in applications.
+- **[Dynamic Application Security Assessments (DAST)]({% link _pages/dast.md %})** — MCH has a number of licensed products available to perform DAST scanning of applications and our staff are experts at their use.
 
 ---
 {% include feature_row %}
