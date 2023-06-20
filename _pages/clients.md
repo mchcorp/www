@@ -1,8 +1,8 @@
 ---
 layout: nosplash
 permalink: /clients/
-title: "Select Clients of MCH Corporation"
-excerpt: "*Logos of some of MCH Corporation's clients."
+title: "Our clients that our staff has served:"
+excerpt: "*Logos of some of the clients our staff has served."
 layouts_gallery:
   - url: /assets/images/210x187_PwCGalleryLogo.png.png
     image_path: /assets/images/210x187_PwCGalleryLogo.png
@@ -45,9 +45,8 @@ We are proud to have served the following companies and agencies as well as many
 ## Select Client Listing by Name:
 
 - PricewaterhouseCoopers LLC Cyber Security M&A
-- CACI Cybersecurity & Cyberspace Operations
+- CACI Cybersecurity & Cyberspace Operations, supporting US Department of Homeland Security
 - Verizon Threat Research Advisory Center (VTRAC)
-- CACI, supporting US Department of Homeland Security
 - Pentagon Joint Service Provider Cyber Security Center
 - National Space and Aerospace Administration - GSFC (80GSFC19F0016, 80GSFC19F0022, 80GSFC19F0015, 80GSFC20F0026, 80GSFC20F0027, 80GSFC20F0040, 80GSFC21F0037, 80GSFC21F0038, 80GSFC21F0032)
 - US Air Force/Space Force (FA940110C0002, FA940114C0003)
