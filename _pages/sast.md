@@ -21,17 +21,17 @@ The benefits of SAST include its ability to analyze an entire codebase quickly, 
 
 Static Application Security Testing (SAST) is a white-box testing methodology that focuses on examining the application's source code to find potential security vulnerabilities. Here's a general outline of how SAST is usually performed:
 
-Preparation: The first step in SAST involves identifying the scope of the testing, such as which parts of the codebase to analyze. The source code is then prepared for analysis, which might involve building a version of the application that's compatible with the SAST tool.
+- **Preparation** — The first step in SAST involves identifying the scope of the testing, such as which parts of the codebase to analyze. The source code is then prepared for analysis, which might involve building a version of the application that's compatible with the SAST tool.
 
-Static Code Analysis: The SAST tool scans the source code, examining it line by line. It uses predefined rules or patterns that correspond to known vulnerabilities, such as SQL injection or buffer overflow vulnerabilities. If it finds a piece of code that matches one of these patterns, it flags it as a potential vulnerability.
+- **Static Code Analysis** — The SAST tool scans the source code, examining it line by line. It uses predefined rules or patterns that correspond to known vulnerabilities, such as SQL injection or buffer overflow vulnerabilities. If it finds a piece of code that matches one of these patterns, it flags it as a potential vulnerability.
 
-Data Flow Analysis: Some SAST tools also perform data flow analysis, tracking the flow of data through the application to identify potential vulnerabilities related to the handling of sensitive data.
+- **Data Flow Analysis** — Some SAST tools also perform data flow analysis, tracking the flow of data through the application to identify potential vulnerabilities related to the handling of sensitive data.
 
-Results Interpretation: After scanning, the SAST tool produces a report that lists the potential vulnerabilities it found, usually ranked by severity. These results need to be interpreted and validated, as there can be false positives (benign code flagged as vulnerable) and false negatives (actual vulnerabilities that weren't flagged).
+- **Results Interpretation** — After scanning, the SAST tool produces a report that lists the potential vulnerabilities it found, usually ranked by severity. These results need to be interpreted and validated, as there can be false positives (benign code flagged as vulnerable) and false negatives (actual vulnerabilities that weren't flagged).
 
-Remediation: Once the vulnerabilities have been identified and validated, the next step is remediation. This typically involves modifying the code to eliminate the vulnerability, then retesting to ensure the vulnerability has been properly addressed.
+- **Remediation** — Once the vulnerabilities have been identified and validated, the next step is remediation. This typically involves modifying the code to eliminate the vulnerability, then retesting to ensure the vulnerability has been properly addressed.
 
-Integration into SDLC: Ideally, SAST is integrated into the software development life cycle (SDLC).  This helps catch vulnerabilities early, before they make it into the production code.
+- **Integration into SDLC** — Ideally, SAST is integrated into the software development life cycle (SDLC).  This helps catch vulnerabilities early, before they make it into the production code.
 
 One of the main advantages of SAST is its ability to catch vulnerabilities early in the development process, which can save time and resources compared to catching them later. However, it's worth noting that SAST can't catch every type of vulnerability, especially ones that only become apparent when the application is running. For that reason, it's often used in conjunction with dynamic application security testing (DAST) to provide a more comprehensive approach to application security.
 
@@ -39,14 +39,14 @@ One of the main advantages of SAST is its ability to catch vulnerabilities early
 
 Choosing the right Static Application Security Testing (SAST) service provider is an important decision that can significantly impact the security posture of an organization's applications. Here are some key considerations when making your selection:
 
-Compatibility and Scope: The SAST tool employed by your service provider needs to support the programming languages and frameworks your organization uses.
+- **Compatibility and Scope** — The SAST tool employed by your service provider needs to support the programming languages and frameworks your organization uses.
 
-Accuracy: The tool employed by your service provider should have a high accuracy rate in identifying potential vulnerabilities.  More importantly, your service provider needs experts to review the finding indications and determine which finding indications are confirmable and which are false positives.  Time and again it’s been proven this cannot be fully automated. Delivering false positives to development staff can waste valuable time, while false negatives can leave vulnerabilities undetected.
+- **Accuracy** — The tool employed by your service provider should have a high accuracy rate in identifying potential vulnerabilities.  More importantly, your service provider needs experts to review the finding indications and determine which finding indications are confirmable and which are false positives.  Time and again it’s been proven this cannot be fully automated. Delivering false positives to development staff can waste valuable time, while false negatives can leave vulnerabilities undetected.
 
-Reporting and Remediation Guidance: The tool should generate clear, understandable reports, providing actionable insights and guidance on how to remediate identified vulnerabilities.
+- **Reporting and Remediation Guidance** — The tool should generate clear, understandable reports, providing actionable insights and guidance on how to remediate identified vulnerabilities.
 
-Reputation and Reviews: Consider the provider's reputation in the industry. Look for independent reviews and case studies. Ask for references if possible.
+- **Reputation and Reviews** — Consider the provider's reputation in the industry. Look for independent reviews and case studies. Ask for references if possible.
 
-Pricing: Evaluate the pricing model and make sure it aligns with your budget. Consider both immediate and long-term costs.  As MCH is a subcontractor to a number of major testing houses, our pricing is lower than most of our competition.  We provide the same (or typically higher quality) results as we are staffed by proven AppSec experts with a wealth of experience that other larger firms to turn to for their highest profile projects.
+- **Pricing** — Evaluate the pricing model and make sure it aligns with your budget. Consider both immediate and long-term costs.  As MCH is a subcontractor to a number of major testing houses, our pricing is lower than most of our competition.  We provide the same (or typically higher quality) results as we are staffed by proven AppSec experts with a wealth of experience that other larger firms to turn to for their highest profile projects.
 
 ---
