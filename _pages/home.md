@@ -1,7 +1,7 @@
 ---
 layout: nosplash
 permalink: /
-title: "Home"
+title: "About"
 
 feature_row:
   - image_path: /assets/images/mm-cyber-feature.jpg
