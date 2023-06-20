@@ -10,8 +10,8 @@ layouts_gallery:
   - url: /assets/images/210x187_CACIGalleryLogo.png
     image_path: /assets/images/210x187_CACIGalleryLogo.png
     alt: "CACI Cybersecurity & Cyberspace Operations"
-  - url: /assets/images/210x187_VerizonGalleryLogo.png.png
-    image_path: /assets/images/210x187_VerizonGalleryLogo.png.png
+  - url: /assets/images/210x187_VerizonGalleryLogo.png
+    image_path: /assets/images/210x187_VerizonGalleryLogo.png
     alt: "Verizon Threat Research Advisory Center (VTRAC)"
   - url: /assets/images/210x187_OptivGalleryLogo.png
     image_path: /assets/images/210x187_OptivGalleryLogo.png
