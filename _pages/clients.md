@@ -38,7 +38,7 @@ last_modified_at: 2021-11-28T10:23:16-04:00
 toc: true 
 ---
 
-We are proud to have served the following companies and agencies as well as many others:
+Our staff has served the following companies and agencies as well as many others:
 
 {% include gallery id="layouts_gallery" caption="*Logos of some of MCH Corporation's clients." %}
 
@@ -48,6 +48,7 @@ We are proud to have served the following companies and agencies as well as many
 - CACI Cybersecurity & Cyberspace Operations, supporting US Department of Homeland Security
 - Verizon Threat Research Advisory Center (VTRAC)
 - Pentagon Joint Service Provider Cyber Security Center
+- Fortinet
 - National Space and Aerospace Administration - GSFC (80GSFC19F0016, 80GSFC19F0022, 80GSFC19F0015, 80GSFC20F0026, 80GSFC20F0027, 80GSFC20F0040, 80GSFC21F0037, 80GSFC21F0038, 80GSFC21F0032)
 - US Air Force/Space Force (FA940110C0002, FA940114C0003)
 - US Army (W9127Q13P0252, W9124C12P0070, W50S7K20F0014)
