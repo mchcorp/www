@@ -31,7 +31,11 @@ feature_row:
 
 ## About MCH Corporation (MCH), A Cyber Security Focused Company
 
-MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise in the area of cyber security to develop information technology solutions to operate activities of vital importance to companies and government agencies. Our company has a vast array of cyber security technology and human resources that we apply to every IT project we are involved in.  We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance, integrity, and cyber security.
+Our security testing team has more than 35 years of combined development and application security experience. Our staff has access to a broad variety of testing and analysis testing tools to perform static (SAST) and dynamic (DAST) security testing, Software Composition Analysis (SCA), Manual Application Penetration Testing, Threat Modeling and Secure Code Reviews.
+
+MCH conducts security evaluations for applications on behalf of organizations. We provide this service both directly and indirectly, as well as a subcontractor for prominent cybersecurity advisory firms and government agencies.
+
+MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise in the area of cyber security to develop information technology solutions to operate activities of vital importance to companies and government agencies. Our company has a vast array of cyber security technology and human resources that we apply to every IT project we are involved in. We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance, integrity, and cyber security.
 
 ## Notable Accomplishments
 
