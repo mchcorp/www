@@ -44,13 +44,13 @@ We are proud to have served the following companies and agencies as well as many
 
 ## Select Client Listing by Name:
 
-- Pricewaterhouse Coopers
-- CACI, supporting Pentagon Cyber Security Center
-- Verizon Enterprise Solutions
+- PricewaterhouseCoopers LLC Cyber Security M&A
+- CACI Cybersecurity & Cyberspace Operations
+- Verizon Threat Research Advisory Center (VTRAC)
 - CACI, supporting US Department of Homeland Security
-- XLA Inc., supporting National Archives and Records Administration
-- National Aeronautics and Space Administration (80GSFC19F0016, 80GSFC19F0022, 80GSFC19F0015, 80GSFC20F0026, 80GSFC20F0027, 80GSFC20F0040, 80GSFC21F0037, 80GSFC21F0038, 80GSFC21F0032)
-- US Air Force (FA940110C0002, FA940114C0003)
+- Pentagon Joint Service Provider Cyber Security Center
+- National Space and Aerospace Administration - GSFC (80GSFC19F0016, 80GSFC19F0022, 80GSFC19F0015, 80GSFC20F0026, 80GSFC20F0027, 80GSFC20F0040, 80GSFC21F0037, 80GSFC21F0038, 80GSFC21F0032)
+- US Air Force/Space Force (FA940110C0002, FA940114C0003)
 - US Army (W9127Q13P0252, W9124C12P0070, W50S7K20F0014)
 - US Army Corps of Engineers (W912EQ09P0123)
 - US Department of Energy (DESC0001252, DEEM0003398, DESC0007582)
