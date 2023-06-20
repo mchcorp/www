@@ -4,42 +4,36 @@ permalink: /clients/
 title: "Select Clients of MCH Corporation"
 excerpt: "*Logos of some of MCH Corporation's clients."
 layouts_gallery:
-  - url: /assets/images/80p_PwC_Logo210.png
-    image_path: /assets/images/80p_PwC_Logo210.png
-    alt: "Pricewaterhouse Coopers"
-  - url: /assets/images/80p_CACI_Logo210.png
-    image_path: /assets/images/80p_CACI_Logo210.png
-    alt: "CACI"
-  - url: /assets/images/80p_Verizon_Logo210.png
-    image_path: /assets/images/80p_Verizon_Logo210.png
-    alt: "Verizon Enterprise Solutions"
-  - url: /assets/images/80p_DOELogo210.png
-    image_path: /assets/images/80p_DOELogo210.png
-    alt: "Department of Energy"  
+  - url: /assets/images/210x187_PwCGalleryLogo.png.png
+    image_path: /assets/images/210x187_PwCGalleryLogo.png
+    alt: "PricewaterhouseCoopers LLC Cyber Security M&A"
+  - url: /assets/images/210x187_CACIGalleryLogo.png
+    image_path: /assets/images/210x187_CACIGalleryLogo.png
+    alt: "CACI Cybersecurity & Cyberspace Operations"
+  - url: /assets/images/210x187_VerizonGalleryLogo.png.png
+    image_path: /assets/images/210x187_VerizonGalleryLogo.png.png
+    alt: "Verizon Threat Research Advisory Center (VTRAC)"
+  - url: /assets/images/210x187_OptivGalleryLogo.png
+    image_path: /assets/images/210x187_OptivGalleryLogo.png
+    alt: "Optiv Threat Management Services"  
   - url: /assets/images/80p_JSP_Logo210.png
     image_path: /assets/images/80p_JSP_Logo210.png
-    alt: "Pentagon Cyber Security Center"
-  - url: /assets/images/80p_NARALogo210.png
-    image_path: /assets/images/80p_NARALogo210.png
-    alt: "National Archives and Records Administration"
-  - url: /assets/images/80p_NASALogo210.png
-    image_path: /assets/images/80p_NASALogo210.png
-    alt: "National Aeronautics and Space Administration"
-  - url: /assets/images/80p_USAFLogo210.png
-    image_path: /assets/images/80p_USAFLogo210.png
-    alt: "United States Air Force"
-  - url: /assets/images/80p_DHSLogo210.png
-    image_path: /assets/images/80p_DHSLogo210.png
+    alt: "Pentagon Joint Service Provider Cyber Security Center"
+  - url: /assets/images/210x187_SecureWorksGalleryLogo.png
+    image_path: /assets/images/210x187_SecureWorksGalleryLogo.png
+    alt: "SecureWorks Counter Threat Unit"
+  - url: /assets/images/210x187_DCMAGalleryLogo.png
+    image_path: /assets/images/210x187_DCMAGalleryLogo.png
+    alt: "US Department of Defense - DCMA Software Assurance"
+  - url: /assets/images/210x187_AFRLGalleryLogo2.png
+    image_path: /assets/images/210x187_AFRLGalleryLogo2.png
+    alt: "United States Air Force/Space Force"
+  - url: /assets/images/210x187_CISAGalleryLogo.png
+    image_path: /assets/images/210x187_CISAGalleryLogo.png
     alt: "US Department of Homeland Security"
-  - url: /assets/images/80p_ARMYLogo210.png
-    image_path: /assets/images/80p_ARMYLogo210.png
-    alt: "US Army Headquarters, Ft. Bragg"
-  - url: /assets/images/80p_FAALogo210.png
-    image_path: /assets/images/80p_FAALogo210.png
-    alt: "US Federal Aviation Administration"
-  - url: /assets/images/80p_GSALogo210.png
-    image_path: /assets/images/80p_GSALogo210.png
-    alt: "US General Services Administration"
+  - url: /assets/images/210x187_GSFCGalleryLogo.png
+    image_path: /assets/images/210x187_GSFCGalleryLogo.png
+    alt: "National Space and Aerospace Administration - GSFC"
 last_modified_at: 2021-11-28T10:23:16-04:00
 toc: true 
 ---
