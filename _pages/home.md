@@ -1,7 +1,7 @@
 ---
 layout: nosplash
 permalink: /
-title: "About"
+title: "Home"
 
 feature_row:
   - image_path: /assets/images/mm-cyber-feature.jpg
@@ -37,7 +37,7 @@ MCH conducts security evaluations for applications on behalf of organizations. W
 
 MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise in the area of cyber security to develop information technology solutions to operate activities of vital importance to companies and government agencies. Our company has a vast array of cyber security technology and human resources that we apply to every IT project we are involved in. We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance, integrity, and cyber security.
 
-## Notable Accomplishments
+## Primary Services
 
 - MCH is a debt free corporation that has constructed & owns its own facilities, and uses its own working capital.
 - MCH graduated the SBA 8(a) program in 2017 while successfully performing numerous federal contracts as a prime contractor.
