@@ -39,13 +39,10 @@ MCH is an information technology and security solutions company that uses its ex
 
 ## Primary Services
 
-- MCH is a debt free corporation that has constructed & owns its own facilities, and uses its own working capital.
-- MCH graduated the SBA 8(a) program in 2017 while successfully performing numerous federal contracts as a prime contractor.
-- MCH was designated by the SBA as the Tennessee 8(a) Contractor of the Year and its President has been designated by the SBA as Tennessee Small Business Person of the Year.
-- MCH performs contacts involving personnel with government security clearances as well as commercial advisory services requiring COI clearances.
-- MCH has established relationships with numerous large companies that it utilizes as subcontractors when appropriate.
-
-MCH Corporation is 100% Native American and Veteran Owned.
+- **Web Application Security Assessments (WASA)** — MCH's most prominent capability is the expert ability to perform web application penetration testing and vulnerability assessments of web applications.
+- **Secure Source Code Reviews and Static Analysis of Application Source Code (SAST)** — MCH has the expertise to perform manual code reviews and to perform static analysis of source code using industry standard tools (Fortify, Fortify on Demand, SonarQube, SonarCloud, Veracode, or Checkmarx).
+- **Software Composition Analysis (SCA)** — MCH has the tools and experts needed to analyze applications to assess risk associated with dependencies and third-party components used in applications.
+- **Dynamic Application Security Assessments (DAST)** — MCH has a number of licensed products available to perform DAST scanning of applications and our staff are experts at their use.
 
 ---
 {% include feature_row %}
